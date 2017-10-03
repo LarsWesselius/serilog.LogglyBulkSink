@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.LogglyBulkSink", "Serilog.LogglyBulkSink\Serilog.LogglyBulkSink.csproj", "{0F7B5BA4-8C48-4EB7-BF55-60C1880E1C6D}"
 EndProject
@@ -21,8 +21,15 @@ Global
 		{A40EB6B1-1369-4D13-B7BD-3D1B19439557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40EB6B1-1369-4D13-B7BD-3D1B19439557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40EB6B1-1369-4D13-B7BD-3D1B19439557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617EAE1F-B64E-45CD-AC53-12B0B7B758D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617EAE1F-B64E-45CD-AC53-12B0B7B758D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617EAE1F-B64E-45CD-AC53-12B0B7B758D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617EAE1F-B64E-45CD-AC53-12B0B7B758D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2E5A45-9525-402B-A569-7FB51569E0CD}
 	EndGlobalSection
 EndGlobal
